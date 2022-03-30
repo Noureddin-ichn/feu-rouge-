@@ -1,0 +1,8 @@
+Warning[205] C:\ICHN_NOUREDDIN_PIC\PROGRAMME1\ICHNNOUREDDIN1.ASM 12 : Found directive in column 1. (CBLOCK)
+Warning[207] C:\ICHN_NOUREDDIN_PIC\PROGRAMME1\ICHNNOUREDDIN1.ASM 23 : Found label after column 1. (tempo)
+Warning[207] C:\ICHN_NOUREDDIN_PIC\PROGRAMME1\ICHNNOUREDDIN1.ASM 52 : Found label after column 1. (hh)
+Warning[207] C:\ICHN_NOUREDDIN_PIC\PROGRAMME1\ICHNNOUREDDIN1.ASM 63 : Found label after column 1. (kk)
+Message[302] C:\ICHN_NOUREDDIN_PIC\PROGRAMME1\ICHNNOUREDDIN1.ASM 80 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\ICHN_NOUREDDIN_PIC\PROGRAMME1\ICHNNOUREDDIN1.ASM 81 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] C:\ICHN_NOUREDDIN_PIC\PROGRAMME1\ICHNNOUREDDIN1.ASM 85 : Found label after column 1. (Sequence1)
+Warning[207] C:\ICHN_NOUREDDIN_PIC\PROGRAMME1\ICHNNOUREDDIN1.ASM 153 : Found label after column 1. (Sequence6)
